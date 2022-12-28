@@ -1,0 +1,98 @@
+body{
+    background-image: url(foto1.jpg);  
+    background-size: cover;
+    background-position: center; 
+    
+}
+
+
+
+
+
+.img{
+    height: 615px;
+    width: 100%;
+   
+    
+}
+.login-box{
+    width: 420px;
+    height: 520px;
+    background-color: #000;
+    color: white;
+    top: 50%;
+    left: 50%;
+    border-radius: 25px;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    opacity: 0.8;
+    
+}
+.Avatar{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 160px;
+    opacity: 1;
+}
+h1{
+    margin: 0;
+    padding: 110px;
+    text-align: center;
+    font-size: 25px;
+    opacity: 1;
+}
+.login-box p{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    margin-left: 50px;
+    opacity: 1;
+}
+.login-box input{
+    width: 80%;
+    margin-bottom: 20px;
+    margin-left: 60px;
+    color: white;
+    opacity: 1;
+}
+.login-box input[type="text"], input[type="password"]{
+    border: none;
+    border-bottom: 2px solid #fff;
+    background: transparent;
+    height: 40px;
+ 
+}
+.login-box .a button {
+    width: 100px;
+    height: 30px;
+    background-color: red;
+    color: #fff;
+    border-radius: 25px;
+    margin-left: 50px;
+    transition: transform 0.7s;
+}
+.login-box a{
+    margin-left: 120px;
+    color: #fff;
+    text-decoration: none;
+    margin-bottom: 60px;
+}
+.login-box button:hover{
+       transform: scale(1.1);
+       background-color: transparent;
+       border: 1px solid red;
+       box-shadow: 0px 0px 25px red, 0px 0px 25px red;
+}
+#username-error{
+    margin-left: 80px;
+    margin-top: -10px;
+    visibility: hidden;
+}
+#pass-error{
+    margin-left: 80px;
+    margin-top: -10px;
+    visibility: hidden;
+}

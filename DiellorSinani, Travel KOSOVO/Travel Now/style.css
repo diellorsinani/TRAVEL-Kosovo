@@ -1,0 +1,85 @@
+
+body{
+        background: linear-gradient(rgb(0,0,0,0.70),rgb(0,0,0,0.70)), url(backgound.jpg);
+        background-position: center;
+        background-size: cover;
+}
+h1{
+    font-size: 60px;
+    text-align: center;
+    color: white;
+}
+span{
+    color: darkorange;
+}
+/*Prishtina hotels*/
+
+#Prishtina{
+    height: 750px;
+    width: 100%;
+    border: 3px solid white;
+    background: linear-gradient(rgb(0,0,0,0.80),rgb(0,0,0,0.80)), url(section1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+#Prishtina img{
+    margin-left: 30px;
+    margin-top: 30px;
+    border-radius: 10px;
+
+}
+#Prishtina h1{
+    font-size: 35px;
+    margin-left: -150px;
+    margin-top: -300px;
+    color: aliceblue;
+}
+
+#Prishtina #Pr-hotels{
+    padding: 10px 20px;
+    margin-left: 400px;
+    margin-top: 10px;
+    border-radius: 25px;
+    background-color: transparent;
+    color: darkorange;
+    border: 2px solid white;
+    transition: 0.3s;
+}
+#Prishtina button:hover{
+    background-color: black;
+    transform: scale(1.07);
+    box-shadow: 0px 0px 20px gray, 0px 0px 20px black;
+    text-decoration: underline;
+}
+div.text-right{
+    margin-left: 350px;
+    margin-top: 60px;
+    width: 1200px;
+}
+h4{
+    margin-left: 400px;
+    color: white;
+}
+div.col-sm{
+    margin-top: -395px;
+    margin-left: 20px;
+    width: 1200px;
+    
+}
+
+b{
+    color: green;
+}
+div.col-smd{
+    margin-left: 690px;
+    width: 1250px;
+    margin-top: -385px;
+}
+div.col-smt{
+    margin-left: 1030px;
+    width: 1200px;
+    margin-top: -395px;
+}
+.active{
+    visibility: visible;
+}

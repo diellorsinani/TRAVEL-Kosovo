@@ -1,0 +1,276 @@
+ <h1><span>Travel</span> Now! <span>Kosovo</span> is waiting for you!</h1>
+    <a href="http://127.0.0.1:5500/index.html"><img src="arrow.png" alt="" height="50" width="80" class="arrow"></a>
+      <div class="swiss">
+        <img src="swiss.jpg" width="400" height="200" alt="">
+      <h2>Swiss Diamond hotel Prishtina</h2>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Pro 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M215.7 499.2C267 435 384 279.4 384 192C384 86 298 0 192 0S0 86 0 192c0 87.4 117 243 168.3 307.2c12.3 15.3 35.1 15.3 47.4 0zM192 256c-35.3 0-64-28.7-64-64s28.7-64 64-64s64 28.7 64 64s-28.7 64-64 64z"/></svg>
+      <h4>Hotel in Prishtina</h4>
+      <p>Centrally located next to the National Theater and the Parliament Hall, <br>
+         the 5-star Swiss Diamond Hotel Prishtina offers lavishly decorated luxurious <br>
+          accommodation, 2 restaurants and 2 bars. </p>
+      <p class="price">Price: <b>110€</b> for night</p> 
+      <button id="check1">Check Now!</button>   
+      <br>
+      <br>
+      <br>
+      <br>
+      <h4 class="h4-1" id="h4-swiss">1 room = 2 guests, the food is in all meals of the day the price is <span>140€</span>. <br>
+         Without those You have the price ahead!</h4> 
+         <br>
+
+         <h4 class="h4-2" id="h4-swiss">2 rooms = 4 guests, the food is in all meals of the day the price is <span>170€</span>. <br>
+          Without those You have the price ahead!</h4> 
+      </div>
+      <br>
+
+      <div class="venus">
+        <img src="venus.jpg" width="400" height="200" alt="">
+      <h2>Venus Hotel</h2>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Pro 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M215.7 499.2C267 435 384 279.4 384 192C384 86 298 0 192 0S0 86 0 192c0 87.4 117 243 168.3 307.2c12.3 15.3 35.1 15.3 47.4 0zM192 256c-35.3 0-64-28.7-64-64s28.7-64 64-64s64 28.7 64 64s-28.7 64-64 64z"/></svg>
+      <h4>Hotel in Prishtina</h4>
+      <p>Situated in Pristina, 10 km from Gračanica Monastery, <br>
+         Venus Hotel features accommodation with a restaurant, <br>
+          free private parking, a fitness centre and a bar. <br>
+           Absolutely professional hotel! Very nice and modern room,<br>
+            excellent restaurant, perfect breakfast. The wellness also was successful! </p>
+      <p class="price">Price: <b>95€</b> for night</p> 
+      <button><a href="">Check Now!</a></button>  
+      <br>
+      <br>
+      <br>
+      <br>
+      <h4 class="h4-3" id="h4-venus">1 room = 2 guests, the food is in all meals of the day the price is <span>140€</span>. <br>
+         Without those You have the price ahead!</h4> 
+         <br>
+
+         <h4 class="h4-2" id="h4-venus">2 rooms = 4 guests, the food is in all meals of the day the price is <span>170€</span>. <br>
+          Without those You have the price ahead!</h4>  
+      </div>
+
+      <br>
+
+      <div class="venus">
+        <img src="panorama.jpg" width="400" height="200" alt="">
+      <h2> Hotel Panorama</h2>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Pro 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M215.7 499.2C267 435 384 279.4 384 192C384 86 298 0 192 0S0 86 0 192c0 87.4 117 243 168.3 307.2c12.3 15.3 35.1 15.3 47.4 0zM192 256c-35.3 0-64-28.7-64-64s28.7-64 64-64s64 28.7 64 64s-28.7 64-64 64z"/></svg>
+      <h4>Hotel in Pejë</h4>
+      <p>Located in Peje, 31 km from Visoki Dečani Monastery, <br>
+         Hotel Panorama Rugove provides accommodation with a restaurant, <br>
+          free private parking, a garden and a terrace. Fabulous mountain view, <br>
+           quite place, staff were kindness. Especial thanks for Mr. Orber <br>
+            ( I hope that I spelled his name correctly) about <br>
+             his welcoming attitude and cooperation. </p>
+      <p class="price">Price: <b>70€</b> for night</p> 
+      <button><a href="">Check Now!</a></button>   
+      <br>
+      <br>
+      <br>
+      <br>
+      <h4 class="h4-1" id="h4-1">1 room = 2 guests, the food is in all meals of the day the price is <span>140€</span>. <br>
+         Without those You have the price ahead!</h4> 
+         <br>
+
+         <h4 class="h4-2" id="h4-2">2 rooms = 4 guests, the food is in all meals of the day the price is <span>170€</span>. <br>
+          Without those You have the price ahead!</h4> 
+      </div>
+
+      <br>
+
+      <div class="venus">
+        <img src="rubis.png" width="400" height="200" alt="">
+      <h2>Rubis Hotel</h2>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Pro 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M215.7 499.2C267 435 384 279.4 384 192C384 86 298 0 192 0S0 86 0 192c0 87.4 117 243 168.3 307.2c12.3 15.3 35.1 15.3 47.4 0zM192 256c-35.3 0-64-28.7-64-64s28.7-64 64-64s64 28.7 64 64s-28.7 64-64 64z"/></svg>
+      <h4>Hotel in Ferizaj</h4>
+      <p>Rubis Boutique Hotel is an oasis in the heart of the historic <br>
+         and business center of Ferizaj. Located in the heart of Ferizaj, <br>
+          only 1km away from the central metro station. <br>
+           Enjoy a comfortable stay in our Luxury Rooms. </p>
+      <p class="price">Price: <b>55€</b> for night</p> 
+      <button><a href="">Check Now!</a></button> 
+      <br>
+      <br>
+      <br>
+      <br>
+      <h4 class="h4-1" id="h4-1">1 room = 2 guests, the food is in all meals of the day the price is <span>140€</span>. <br>
+         Without those You have the price ahead!</h4> 
+         <br>
+
+         <h4 class="h4-2" id="h4-2">2 rooms = 4 guests, the food is in all meals of the day the price is <span>170€</span>. <br>
+          Without those You have the price ahead!</h4>   
+      </div>
+
+      <br>
+
+      <div class="venus">
+        <img src="premium.jpg" width="400" height="200" alt="">
+      <h2>Premium Hotel</h2>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Pro 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M215.7 499.2C267 435 384 279.4 384 192C384 86 298 0 192 0S0 86 0 192c0 87.4 117 243 168.3 307.2c12.3 15.3 35.1 15.3 47.4 0zM192 256c-35.3 0-64-28.7-64-64s28.7-64 64-64s64 28.7 64 64s-28.7 64-64 64z"/></svg>
+      <h4>Hotel in Prizren</h4>
+      <p>Premium Park Hotel in Prizren, Kosovo offers you <br>
+         a special place to enjoy Prizen. In an elegant building <br>
+          in the center of Prizren, Premium Park Hotel is the result <br>
+           of a clear vision for providing excellent hotel <br>
+            services and excellent new hospitality standards. </p>
+      <p class="price">Price: <b>95€</b> for night</p> 
+      <button><a href="">Check Now!</a></button>
+      <br>
+      <br>
+      <br>
+      <br>
+      <h4 class="h4-1" id="h4-1">1 room = 2 guests, the food is in all meals of the day the price is <span>140€</span>. <br>
+         Without those You have the price ahead!</h4> 
+         <br>
+
+         <h4 class="h4-2" id="h4-2">2 rooms = 4 guests, the food is in all meals of the day the price is <span>170€</span>. <br>
+          Without those You have the price ahead!</h4>    
+      </div>
+
+
+
+style.cssssssssssssssssssssssssssssssss
+
+
+
+body{
+    background: linear-gradient(rgb(0,0,0,0.70),rgb(0,0,0,0.70)), url(backgound.jpg);
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+span{
+    color: darkorange;
+}
+.swiss{
+    border: 4px solid orange;
+    padding: 150px;
+    background-color: white;
+}
+.swiss h2{
+    margin-left:300px;
+    margin-top:-230px;
+    color: black;
+}
+.swiss img{
+    margin-left: -140px;
+    margin-top: -100px;
+    z-index: 1;
+}
+.swiss svg{
+    max-width: 20px;
+    margin-left: 300px;
+
+   
+}
+.swiss h4{
+    margin-left: 330px;
+    margin-top: -25px;
+    font-size: 17px;
+    color:orange;
+}
+.swiss p {
+    color: black;
+    margin-left: 300px;
+}
+.swiss .price{
+    font-size: 20px;
+    color: black;
+}
+b{
+    color: green;
+}
+.swiss button{
+    padding: 10px 20px;
+    margin-left: 300px;
+    background-color: orange;
+    color: aliceblue;
+    border-radius: 25px;
+    border: 2px solid darkorange;
+    transition: 0.3s;
+}
+.swiss button a{
+    color: black;
+    text-decoration: none;
+}
+.swiss button:hover{
+    transform: scale(1.09);
+    box-shadow: 0px 0px 10px black, 0px 0px 20px gray;
+}
+
+.swiss .h4-1{
+    margin-bottom: 20px;
+    color: black;
+    display: none;
+}
+.swiss .h4-1 span{
+    color: green;
+}
+
+.swiss .h4-2{
+    margin-bottom: 20px;
+    color: black;
+    display: none;
+}
+.swiss .h4-2 span{
+    color: green;
+}
+
+/*Venus Hotel*/
+
+.venus{
+    border: 4px solid orange;
+    padding: 150px;
+    background-color: white;
+}
+.venus h2{
+    margin-left:300px;
+    margin-top:-230px;
+    color: black;
+}
+.venus img{
+    margin-left: -140px;
+    margin-top: -100px;
+    z-index: 1;
+}
+.venus svg{
+    max-width: 20px;
+    margin-left: 300px;
+   
+}
+.venus h4{
+    margin-left: 330px;
+    margin-top: -25px;
+    font-size: 17px;
+    color:orange;
+}
+.venus p {
+    color: black;
+    margin-left: 300px;
+}
+.venus .price{
+    font-size: 20px;
+}
+b{
+    color: green;
+}
+.venus button{
+    padding: 10px 20px;
+    margin-left: 300px;
+    background-color: orange;
+    color: black;
+    border-radius: 25px;
+    border: 2px solid darkorange;
+    transition: 0.3s;
+}
+.venus button a{
+    color: black;
+    text-decoration: none;
+}
+.venus button:hover{
+    transform: scale(1.09);
+    box-shadow: 0px 0px 10px black, 0px 0px 20px gray;
+}
+

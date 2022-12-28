@@ -1,0 +1,60 @@
+body{
+    background: linear-gradient(rgb(0,0,0,0.40),rgb(0,0,0,0.40)), url(background.jpg);
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    font-size: 100px;
+    margin-left: 400px;
+    color: orange;
+}
+h2{
+    font-size: 100px;
+    margin-left: 570px;
+    margin-top: -50px;
+}
+h3{
+    font-size: 100px;
+    margin-left: 600px;
+    margin-top: -50px;
+}
+.img{
+    height: 380px;
+    width:380px;
+    border-radius: 50%;
+    margin-top: -250px;
+    margin-left: -100px;
+    transition: 0.3s;
+}
+
+#section1 a .war{
+    font-size: 30px;
+    color: white;
+    margin-top: -170px;
+    margin-left: 300px;
+    text-decoration: underline;
+}
+#section1  .war:hover{
+    color: orange;
+}
+
+#section1 .img2{
+    height: 380px;
+    width:380px;
+    border-radius: 50%;
+    margin-top: -280px;
+    margin-left: 1050px;
+    
+}
+#section1 a .prizreni{
+    font-size: 30px;
+    color: white;
+    text-decoration: underline;
+    margin-top: -165px;
+    margin-left: 800px;
+}
+
+#section1 a .prizreni:hover{
+    color: orange;
+}
+
